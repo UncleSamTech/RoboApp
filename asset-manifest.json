@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboApp/static/css/main.a7dbef45.css",
+    "main.js": "/RoboApp/static/js/main.7ae72759.js",
+    "static/js/787.6cddae0b.chunk.js": "/RoboApp/static/js/787.6cddae0b.chunk.js",
+    "static/media/SEGA.woff": "/RoboApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboApp/index.html",
+    "main.a7dbef45.css.map": "/RoboApp/static/css/main.a7dbef45.css.map",
+    "main.7ae72759.js.map": "/RoboApp/static/js/main.7ae72759.js.map",
+    "787.6cddae0b.chunk.js.map": "/RoboApp/static/js/787.6cddae0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7dbef45.css",
+    "static/js/main.7ae72759.js"
+  ]
+}
